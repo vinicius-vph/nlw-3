@@ -102,3 +102,6 @@ http://localhost:5555/
 ![](/public/images/happy7.png)
 ![](/public/images/happy9.png)
 
+## 📝 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://www.mit.edu/~amini/LICENSE.md) para mais detalhes.
