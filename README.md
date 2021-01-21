@@ -4,7 +4,7 @@
 
 O Happy é uma plataforma para incentivar as pessoas da sua região à visitarem e levarem alegria à crianças que 
 vivem em orfanatos ou casas de apoio, no Happy o usuário consegue consultar de forma rápida no mapa onde está localizada
-cada uma dessas instituições, e em apenas alguns cliques consegue informações gerais e de contato com as instituções, podendo 
+cada uma dessas instituições, e em apenas alguns cliques consegue informações gerais e de contato das instituições, podendo 
 assim agendar e fazer o dia de uma criança mais feliz.
 
 
@@ -16,7 +16,7 @@ assim agendar e fazer o dia de uma criança mais feliz.
 #
 
 
- O Happy também possui um botão que dá acessso a uma área de cadastro, onde qualquer pessoa pode cadastrar os dados de um novo orfanato
+ O Happy também possui um botão que dá acesso à uma área onde qualquer pessoa pode cadastrar os dados de um novo orfanato
 que ainda não está na plataforma, podendo assim ajudar a comunidade a encontrar essas instituições.
 
 
